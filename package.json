@@ -1,0 +1,26 @@
+{
+  "name": "gulp-kss-jade",
+  "version": "1.0.0",
+  "description": "A gulp task to generate kss with jade templates.",
+  "main": "./lib/index.js",
+  "homepage": "https://github.com/markscripter/gulp-kss-jade",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markscripter/gulp-kss-jade.git"
+  },
+  "bugs" : {
+    "url" : "https://github.com/markscripter/gulp-kss-jade/issues",
+    "email" : "markscript@gmail.com"
+  },
+  "scripts": {},
+  "author": {
+    "name": "Mark Scripter",
+    "email": "markscript@gmail.com",
+    "url": "http://github.com/markscripter/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "kss": "^2.1.1"
+  }
+}
