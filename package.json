@@ -8,9 +8,9 @@
     "type": "git",
     "url": "git://github.com/markscripter/gulp-kss-jade.git"
   },
-  "bugs" : {
-    "url" : "https://github.com/markscripter/gulp-kss-jade/issues",
-    "email" : "markscript@gmail.com"
+  "bugs": {
+    "url": "https://github.com/markscripter/gulp-kss-jade/issues",
+    "email": "markscript@gmail.com"
   },
   "scripts": {},
   "author": {
@@ -19,8 +19,12 @@
     "url": "http://github.com/markscripter/"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
+    "gulp-util": "^3.0.7",
     "jade": "^1.11.0",
-    "kss": "^2.1.1"
+    "kss": "^2.1.1",
+    "kss-jade-generator": "^1.0.0",
+    "object-assign": "^4.0.1",
+    "through": "^2.3.8"
   }
 }
