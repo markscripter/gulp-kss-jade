@@ -1,6 +1,6 @@
 {
   "name": "gulp-kss-jade",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A gulp task to generate kss with jade templates.",
   "main": "./lib/index.js",
   "homepage": "https://github.com/markscripter/gulp-kss-jade",
